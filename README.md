@@ -1,2 +1,2 @@
 # RollingCube
-Silly
+A project.
